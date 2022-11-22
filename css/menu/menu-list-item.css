@@ -1,0 +1,8 @@
+.menu__list__item:hover{
+    text-decoration: underline;
+}
+
+.menu__list__item__contato{
+    color:#333333;
+    font-weight: bold;
+}

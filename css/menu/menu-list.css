@@ -1,0 +1,9 @@
+.menu__list{
+    display: flex;
+    align-items: center;    
+    justify-content: space-between;
+    width: 653px;
+    height: 24px;
+    padding-right: 5rem;
+}
+
